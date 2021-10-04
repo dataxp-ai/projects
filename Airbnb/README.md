@@ -1,27 +1,56 @@
 # Airbnb
 
-Build an interactive dashboard to help property owners and investors understand the Airbnb property market.
+**The Goal:** Using the open source airbnb datset from below, build a dashboard to help property owners and investors understand the Airbnb property market.
 
 This project will require:
-- Data cleaning
 - Project planning
+- Data cleaning
 - Data analysis
 - Data visualisation
 
-Note: Project example work such as SQL & Python scripts, Tableau dashboards & documentation will be uploaded to this repo.
+We'll be working alongside you uploading example content such as SQL & Python scripts, Tableau dashboards & other documentation over time. If you get stuck at any point or would like some direction, head over to the #projects channel.
 
-### Data Sources
+<br>
 
-|  |  |
-|---|---|
-| Australian Bureau Statistics | www.abs.com.au |
+## Data Sources
 
-### Top Tips
+Inside Airbnb: http://insideairbnb.com/get-the-data.html
 
-Take time to ask questions and really interogate the problem. What might investors be interested in? Why would they want to know this information? How can we provide value to the customer?
+<br>
 
-Remember: garbage in, garbage out! Make sure your data is clean before putting the hard yards in with data analysis and visualisation.
+## Challenges
 
-Keep an MVP (minimum viable product) mentality. Start small, build a functioning prototype on a small amout of data, then iterate!
+**Beginner**: Create a dashboard to describe the Airbnb property market by showing the number of properties with specific property attributes
 
-Make sure your data visualisation tells a story. Try to keep in mind the question you're trying to answer.
+    - How can we help property owners and investors get a high-level overview of the property market?
+    - What is the average rental price for apartments in Amsterdam?
+    - What number of bedrooms is the most common?
+    - What proportion of Airbnb rentals have a swimming pool, air-conditioning, washing machine, etc?
+
+<br>
+
+**Intermediate**: Create an interactive dashboard to explore the property market. Build on the beginner level by allowing users to filter data directly from the dashboard.
+
+    - How can we help a property owner understand the market and compare their property to others nearby?
+    - If I own a 2 bedroom apartment with a swimming pool in the city centre, how much would I be able to rent it for?
+    - How many other properties are similar to mine?
+
+<br>
+
+**Advanced**: Build an interactive dashboard with your own custom metrics to evaluate the state of Airbnb property markets.
+
+    - What factors might impact whether an Airbnb rental is a succesful investment?
+    - What data can we provide to a property investor to help them decide where next to buy a property?
+    - Can we make the market measurable through a custom evaluation metric, eg "Amsterdam has a stable tourism industry year round and the demand for properties is higher than the supply. It is an A+ investment. Barcelona's tourism industry is highly seasonal & demand is low. It is a B- investment.)
+
+<br>
+
+## Top Tips
+
+- Take time to ask questions and really interrogate the problem. What might investors be interested in? Why would they want to know this information? How can we provide value to the customer?
+
+- Remember: garbage in, garbage out! Make sure your data is clean before putting the hard yards in with data analysis and visualisation.
+
+- Keep an MVP (minimum viable product) mentality. Start small, build a functioning prototype on a small amout of data, then iterate!
+
+- Make sure your data visualisation tells a story. Try to keep in mind the question you're trying to answer.
