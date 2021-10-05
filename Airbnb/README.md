@@ -3,16 +3,26 @@
 ## Welcome!
 We have all encountered an Airbnb although some experiences might have been better than others. Did you know there are investors that purchase properties just to put it as a rental on Airbnb? In this project we will use our data analysis and visualisation skills to help investors decide which suburb/neighbourhood from your chosen city they should invest in next.
 
-Check out the [challenges](#challenges) section below for guidance. Be sure to post your progress, ask questions or find teammates in the #airbnb channel under the project section in Discord. We can't wait to see what everyone comes up with!
-
-### The Goal
-Using the open source airbnb dataset from below, build a dashboard to help property owners and investors understand the Airbnb property market.
-
 This project will require:
 - Project planning
 - Data cleaning
 - Data analysis
 - Data visualisation
+
+Check out the [challenges](#challenges) section below for guidance. Be sure to post your progress, ask questions or find teammates in the #airbnb channel under the project section in Discord. We can't wait to see what everyone comes up with!
+
+<br>
+
+## The Goal
+Using the open source airbnb dataset from below, build a dashboard to help property owners and investors understand the Airbnb property market.
+
+You need to:
+- Choose one of the cities from the 'inside airbnb' website
+- Download your data
+- Clean your dataset
+- Build a dashboard to visualise your data. Tell a story, describing the Airbnb property market for your chosen city.
+- Keep in touch through the #airbnb project channel
+- Share your project with us when you're done!
 
 We'll be working alongside you uploading example content such as SQL & Python scripts, Tableau dashboards & other documentation over time. If you get stuck at any point or would like some direction, head over to the #airbnb project channel.
 
